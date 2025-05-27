@@ -1,5 +1,5 @@
 import React from 'react';
-import { healthStatus } from '../../data/healthStatus';
+import { healthStatus } from '../../data/healthstats';
 import anatomyImage from './../../components/Anatomy Image/output-onlinepngtools.png';
 
 

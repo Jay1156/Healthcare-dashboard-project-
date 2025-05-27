@@ -1,8 +1,8 @@
 import React from 'react';
 import BodyModel from '../components/dashboard/BodyModel';
-import WeeklyCalendar from '../components/dashboard/WeeklyCalendar';
-import ActivityChart from '../components/dashboard/ActivityChart';
-import UpcomingSchedule from '../components/dashboard/UpcomingSchedule';
+import WeeklyCalendar from '../components/dashboard/Calender';
+import ActivityChart from '../components/dashboard/Activity';
+import UpcomingSchedule from '../components/dashboard/Schedu';
 
 const Dashboard: React.FC = () => {
   return (

@@ -1,10 +1,9 @@
 import React from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { appointments } from '../../data/appointments';
+import { appointments } from '../../data/appoints';
 
 const days = ['Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat', 'Sun'];
 const dates = ['25', '26', '27', '28', '29', '30', '31'];
-const timeSlots = ['10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00'];
 
 const WeeklyCalendar: React.FC = () => {
   return (
